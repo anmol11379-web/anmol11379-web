@@ -2,7 +2,7 @@
 
 B.Tech CSE (AI-ML) Student  
 VIT Bhopal 
-First Year Student 
+First Year Student
 Expected Graduation: 2029  
 
 ##  About Me
