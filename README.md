@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Anmol Mishra
+B.Tech CSE(AI-ML) Student
+VIT BHOPAL Expected Graduation: 2029
 
-<!--
-**anmol11379-web/anmol11379-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in Artificial Intelligence and Machine Learning.
+I want to learn and build real-world projects in AI, web development, and data science.
 
-Here are some ideas to get you started:
+Skills: Python, HTML, CSS, JS
+Currently Learning: AI-ML fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+
+LinkedIn: www.linkedin.com/in/anmol-mishra-49990936b
