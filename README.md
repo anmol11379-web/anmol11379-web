@@ -1,7 +1,8 @@
 # Hi, I'm Anmol Mishra 👋
 
 B.Tech CSE (AI-ML) Student  
-VIT Bhopal  
+VIT Bhopal 
+First Year Student 
 Expected Graduation: 2029  
 
 ##  About Me
