@@ -1,13 +1,34 @@
-Hi, I'm Anmol Mishra
-B.Tech CSE(AI-ML) Student
-VIT BHOPAL Expected Graduation: 2029
+# Hi, I'm Anmol Mishra 👋
 
-I am interested in Artificial Intelligence and Machine Learning.
-I want to learn and build real-world projects in AI, web development, and data science.
+B.Tech CSE (AI-ML) Student  
+VIT Bhopal  
+Expected Graduation: 2029  
 
-Skills: Python, HTML, CSS, JS
-Currently Learning: AI-ML fundamentals
+---
 
-Connect with me:
+## 🚀 About Me
+I am a passionate student exploring the world of Artificial Intelligence and Machine Learning.  
+I enjoy building real-world projects and continuously improving my skills in tech and development.
 
-LinkedIn: www.linkedin.com/in/anmol-mishra-49990936b
+---
+
+##  Interests
+- Artificial Intelligence & Machine Learning  
+- Web Development  
+- Data Science  
+
+---
+
+##  Skills
+- Python  
+- HTML, CSS, JavaScript  
+
+---
+
+##  Currently Learning
+- AI & ML Fundamentals  
+
+---
+
+##  Connect with Me
+🔗 LinkedIn: www.linkedin.com/in/anmol-mishra-49990936b
